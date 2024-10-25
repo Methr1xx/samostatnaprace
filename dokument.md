@@ -1,1 +1,1 @@
-Toto je můj první projekt v gitu
+Toto není můj první projekt v gitu
